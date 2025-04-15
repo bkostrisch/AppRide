@@ -2,7 +2,7 @@
 
 Aplicação web que calcula a distância percorrida em uma corrida feita pelo usuário. Exibe informações detalhadas como o mapa com o percurso, velocidade em tempo real, tempo decorrido, data e local da corrida.
 
-![Demonstração do App](.project_show/AppRide.gif)
+![Demonstração do App](project_show\appRide.gif)
 
 ## 🧩 Funcionalidades
 
