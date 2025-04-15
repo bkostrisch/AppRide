@@ -30,3 +30,12 @@ Aplicação web que calcula a distância percorrida em uma corrida feita pelo us
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/app-ride.git
+
+2. Inicie o index.html
+
+## 📱 Testando no celular com Ngrok (opcional)
+
+Para testar o App Ride com localização real em um dispositivo móvel, você pode usar o [Ngrok](https://ngrok.com/) para expor seu servidor local:
+
+```bash
+ngrok http 5500  # ou a porta em que seu app está rodando
